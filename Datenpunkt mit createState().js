@@ -1,0 +1,1 @@
+createState("0_userdata.0.Test.Datenpunktname", "0", {name: "Ich bin ein Test", type: "number", role: "state", unit: "°C" });
